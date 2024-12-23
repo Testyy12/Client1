@@ -1,0 +1,5867 @@
+{
+  "6282137800396": {
+    "chat": 2,
+    "role": "Gak kenal",
+    "energy": 4000,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "energy": 2000,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 1734293041605
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 6,
+      "reset": 1734208202097,
+      "response": false
+    },
+    "lastCharge": 1734173928215,
+    "name": "glih",
+    "lastChat": 1734232651954,
+    "fswaps": {
+      "list": []
+    },
+    "claimPremTrial": true
+  },
+  "6285280960860": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178312602,
+      "response": false
+    },
+    "lastCharge": 1734174712602
+  },
+  "6285215340999": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178322040,
+      "response": false
+    },
+    "lastCharge": 1734174722040,
+    "fswaps": {
+      "list": []
+    },
+    "name": "iyennn",
+    "lastChat": 1734221201105
+  },
+  "639616269750": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178326813,
+      "response": false
+    },
+    "lastCharge": 1734174726813,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Glasly",
+    "lastChat": 1734204622026
+  },
+  "6285710656923": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178328319,
+      "response": false
+    },
+    "lastCharge": 1734174728319,
+    "fswaps": {
+      "list": []
+    },
+    "name": "PUT!",
+    "lastChat": 1734193774924
+  },
+  "6281346741760": {
+    "chat": 13,
+    "role": "Baru kenal",
+    "energy": 308,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 3,
+      "reset": 1734234449096,
+      "response": false
+    },
+    "lastCharge": 1734174731052,
+    "fswaps": {
+      "list": []
+    },
+    "name": "naa kebal crowd control",
+    "lastChat": 1734234697731
+  },
+  "6285793336170": {
+    "chat": 21,
+    "role": "Baru kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734238110800,
+      "response": false
+    },
+    "lastCharge": 1734174754931,
+    "fswaps": {
+      "list": []
+    },
+    "name": "cat",
+    "lastChat": 1734234612513
+  },
+  "6287745651653": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178368107,
+      "response": false
+    },
+    "lastCharge": 1734174768107,
+    "fswaps": {
+      "list": []
+    },
+    "name": "adel member epos😳😳",
+    "lastChat": 1734227373873
+  },
+  "6281547527471": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178416663,
+      "response": false
+    },
+    "lastCharge": 1734174816663,
+    "fswaps": {
+      "list": []
+    },
+    "name": "refa",
+    "lastChat": 1734175949305
+  },
+  "60107721190": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 343,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178418154,
+      "response": false
+    },
+    "lastCharge": 1734174818154,
+    "fswaps": {
+      "list": []
+    },
+    "name": "marco",
+    "lastChat": 1734231806735
+  },
+  "6285363612104": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178528117,
+      "response": false
+    },
+    "lastCharge": 1734174928117,
+    "name": "why??",
+    "lastChat": 1734179547422,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "60109679054": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178531851,
+      "response": false
+    },
+    "lastCharge": 1734174931851,
+    "fswaps": {
+      "list": []
+    },
+    "name": "🌷",
+    "lastChat": 1734175387640
+  },
+  "6285251664500": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178534707,
+      "response": false
+    },
+    "lastCharge": 1734174934707
+  },
+  "120363151626334487": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178545307,
+      "response": false
+    },
+    "lastCharge": 1734174945307
+  },
+  "6285794284855": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178583406,
+      "response": false
+    },
+    "lastCharge": 1734174983406,
+    "fswaps": {
+      "list": []
+    },
+    "name": "✯✯",
+    "lastChat": 1734174985454
+  },
+  "6288215659642": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178600435,
+      "response": false
+    },
+    "lastCharge": 1734175000435
+  },
+  "62895370141878": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178620624,
+      "response": false
+    },
+    "lastCharge": 1734175020625,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Ayuu_dum4zstar❗@ndaa 💤",
+    "lastChat": 1734187186887
+  },
+  "6285924674284": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178665418,
+      "response": false
+    },
+    "lastCharge": 1734175065418
+  },
+  "6285270720445": {
+    "chat": 4,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 2,
+      "reset": 1734183299155,
+      "response": false
+    },
+    "lastCharge": 1734175172522,
+    "fswaps": {
+      "list": []
+    },
+    "name": "KAK GEM",
+    "lastChat": 1734181599852
+  },
+  "62895339327081": {
+    "chat": 5,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 3,
+      "reset": 1734235014808,
+      "response": false
+    },
+    "lastCharge": 1734175218158,
+    "name": "caa imuppp✌︎",
+    "lastChat": 1734233940135,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6282261408263": {
+    "chat": 16,
+    "role": "Baru kenal",
+    "energy": 340,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 14,
+      "reset": 1734234534580,
+      "response": false
+    },
+    "lastCharge": 1734175239244,
+    "fswaps": {
+      "list": []
+    },
+    "name": "ig:Dimm Starboy_",
+    "lastChat": 1734234686431
+  },
+  "6282194595135": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734178924088,
+      "response": false
+    },
+    "lastCharge": 1734175324088,
+    "fswaps": {
+      "list": []
+    },
+    "name": "nanda",
+    "lastChat": 1734194205736
+  },
+  "6285707057583": {
+    "chat": 4,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 2,
+      "reset": 1734183897183,
+      "response": false
+    },
+    "lastCharge": 1734175361611,
+    "fswaps": {
+      "list": []
+    },
+    "name": "~ yaaaa",
+    "lastChat": 1734234137247
+  },
+  "6288987286368": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179038194,
+      "response": false
+    },
+    "lastCharge": 1734175438194,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Marshaaa",
+    "lastChat": 1734176581798
+  },
+  "6285669074403": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179131859,
+      "response": false
+    },
+    "lastCharge": 1734175531859,
+    "fswaps": {
+      "list": []
+    },
+    "name": "راما حسني سياري",
+    "lastChat": 1734190709556
+  },
+  "6283123542070": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179231732,
+      "response": false
+    },
+    "lastCharge": 1734175631732,
+    "fswaps": {
+      "list": []
+    },
+    "name": "kelaa𐙚",
+    "lastChat": 1734175896456
+  },
+  "6281254769252": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179278402,
+      "response": false
+    },
+    "lastCharge": 1734175678402,
+    "fswaps": {
+      "list": []
+    },
+    "name": "I don't know",
+    "lastChat": 1734234702300
+  },
+  "6285788515034": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179340359,
+      "response": false
+    },
+    "lastCharge": 1734175740359,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Bella",
+    "lastChat": 1734176865444
+  },
+  "6289518422481": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179367867,
+      "response": false
+    },
+    "lastCharge": 1734175767867,
+    "fswaps": {
+      "list": []
+    },
+    "name": ".",
+    "lastChat": 1734176061986
+  },
+  "6283803546842": {
+    "chat": 10,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 7,
+      "reset": 1734234728602,
+      "response": false
+    },
+    "lastCharge": 1734175771688,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Bintang ayam kecap",
+    "lastChat": 1734231919412
+  },
+  "6285659863813": {
+    "chat": 3,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1734237781647,
+      "response": false
+    },
+    "lastCharge": 1734175803276,
+    "fswaps": {
+      "list": []
+    },
+    "name": "jihan＾୨୧",
+    "lastChat": 1734234644221
+  },
+  "6288268361031": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179403487,
+      "response": false
+    },
+    "lastCharge": 1734175803487,
+    "fswaps": {
+      "list": []
+    },
+    "name": "ytta",
+    "lastChat": 1734183163804
+  },
+  "6283822342253": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179678382,
+      "response": false
+    },
+    "lastCharge": 1734176078382,
+    "fswaps": {
+      "list": []
+    },
+    "name": "fey jela",
+    "lastChat": 1734234696696
+  },
+  "6281944364083": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179728892,
+      "response": false
+    },
+    "lastCharge": 1734176128892,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Rio",
+    "lastChat": 1734218245295
+  },
+  "6285342908961": {
+    "chat": 2,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183608664,
+      "response": false
+    },
+    "lastCharge": 1734176159427,
+    "fswaps": {
+      "list": []
+    },
+    "name": "R",
+    "lastChat": 1734193741062
+  },
+  "6285600768176": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179865792,
+      "response": false
+    },
+    "lastCharge": 1734176265792,
+    "fswaps": {
+      "list": []
+    },
+    "name": ".",
+    "lastChat": 1734197140728
+  },
+  "6283827983050": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734179903663,
+      "response": false
+    },
+    "lastCharge": 1734176303663
+  },
+  "6289508348883": {
+    "chat": 8,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 4,
+      "reset": 1734235065369,
+      "response": false
+    },
+    "lastCharge": 1734176469461,
+    "fswaps": {
+      "list": []
+    },
+    "name": "𝖓𝖆𝖙🕷️",
+    "lastChat": 1734234653474
+  },
+  "6282262134687": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734180247586,
+      "response": false
+    },
+    "lastCharge": 1734176647586,
+    "fswaps": {
+      "list": []
+    },
+    "name": "vanL𝖘𝖈𝖑",
+    "lastChat": 1734176647590
+  },
+  "6281111845129": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734180269916,
+      "response": false
+    },
+    "lastCharge": 1734176669916,
+    "fswaps": {
+      "list": []
+    },
+    "name": "s.ael",
+    "lastChat": 1734176671260
+  },
+  "6288972750230": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734180344518,
+      "response": false
+    },
+    "lastCharge": 1734176744518,
+    "fswaps": {
+      "list": []
+    },
+    "name": "nanaa onfróy 𖣂",
+    "lastChat": 1734176819091
+  },
+  "6283196869296": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734180458264,
+      "response": false
+    },
+    "lastCharge": 1734176858264,
+    "fswaps": {
+      "list": []
+    },
+    "name": "vaaa",
+    "lastChat": 1734195459215
+  },
+  "62895326222272": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734180663354,
+      "response": false
+    },
+    "lastCharge": 1734177063354,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Ya",
+    "lastChat": 1734181918050
+  },
+  "6283127592547": {
+    "chat": 23,
+    "role": "Baru kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 21,
+      "reset": 1734234463023,
+      "response": false
+    },
+    "lastCharge": 1734177137192,
+    "fswaps": {
+      "list": []
+    },
+    "name": "el 🕸️",
+    "lastChat": 1734231644601
+  },
+  "6283849717847": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734180866915,
+      "response": false
+    },
+    "lastCharge": 1734177266915,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Sy",
+    "lastChat": 1734177606160
+  },
+  "6285378585409": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734180908136,
+      "response": false
+    },
+    "lastCharge": 1734177308136,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Rawww🦖🦖",
+    "lastChat": 1734177884078
+  },
+  "6288989657481": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181123587,
+      "response": false
+    },
+    "lastCharge": 1734177523587,
+    "fswaps": {
+      "list": []
+    },
+    "name": "chelseaathya.",
+    "lastChat": 1734200884122
+  },
+  "6281326477569": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181211050,
+      "response": false
+    },
+    "lastCharge": 1734177611050
+  },
+  "6285135109739": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181228107,
+      "response": false
+    },
+    "lastCharge": 1734177628107,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Y",
+    "lastChat": 1734211953686
+  },
+  "6283125939883": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181302748,
+      "response": false
+    },
+    "lastCharge": 1734177702748,
+    "fswaps": {
+      "list": []
+    },
+    "name": "𝗿𝗶𝗸𝗸.",
+    "lastChat": 1734177786514
+  },
+  "6285313250695": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181320974,
+      "response": false
+    },
+    "lastCharge": 1734177720974
+  },
+  "6283867401997": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181339099,
+      "response": false
+    },
+    "lastCharge": 1734177739099,
+    "fswaps": {
+      "list": []
+    },
+    "name": "︎ ︎ ︎ ︎ ︎",
+    "lastChat": 1734179627385
+  },
+  "6281328454900": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181395963,
+      "response": false
+    },
+    "lastCharge": 1734177795963,
+    "fswaps": {
+      "list": []
+    },
+    "name": "13",
+    "lastChat": 1734229433964
+  },
+  "6283857186282": {
+    "chat": 13,
+    "role": "Baru kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 11,
+      "reset": 1734234584450,
+      "response": false
+    },
+    "lastCharge": 1734177803306,
+    "fswaps": {
+      "list": []
+    },
+    "name": "ririi",
+    "lastChat": 1734231475176
+  },
+  "6285366407422": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181411676,
+      "response": false
+    },
+    "lastCharge": 1734177811676,
+    "fswaps": {
+      "list": []
+    },
+    "name": "faa",
+    "lastChat": 1734177813409
+  },
+  "6282116719989": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181486419,
+      "response": false
+    },
+    "lastCharge": 1734177886419,
+    "fswaps": {
+      "list": []
+    },
+    "name": "raa",
+    "lastChat": 1734178339281
+  },
+  "6282380211458": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181672623,
+      "response": false
+    },
+    "lastCharge": 1734178072623,
+    "fswaps": {
+      "list": []
+    },
+    "name": "faa",
+    "lastChat": 1734178468873
+  },
+  "6283142267367": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181755542,
+      "response": false
+    },
+    "lastCharge": 1734178155542
+  },
+  "6283162938554": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734181774157,
+      "response": false
+    },
+    "lastCharge": 1734178174157
+  },
+  "6285757362290": {
+    "chat": 3,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1734182360076,
+      "response": false
+    },
+    "lastCharge": 1734178760076,
+    "fswaps": {
+      "list": []
+    },
+    "name": "BimzFC",
+    "lastChat": 1734218372836
+  },
+  "628970580604": {
+    "chat": 10,
+    "role": "Gak kenal",
+    "energy": 345,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 9,
+      "reset": 1734182598410,
+      "response": false
+    },
+    "lastCharge": 1734178998410,
+    "fswaps": {
+      "list": []
+    },
+    "name": "🗿",
+    "lastChat": 1734180052615
+  },
+  "628812442815": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734182765310,
+      "response": false
+    },
+    "lastCharge": 1734179165310,
+    "fswaps": {
+      "list": []
+    },
+    "name": ".",
+    "lastChat": 1734179172159
+  },
+  "6289623173925": {
+    "chat": 8,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734235208370,
+      "response": false
+    },
+    "lastCharge": 1734179233741,
+    "fswaps": {
+      "list": []
+    },
+    "name": "S",
+    "lastChat": 1734233560430
+  },
+  "62895340934450": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183221547,
+      "response": false
+    },
+    "lastCharge": 1734179621547
+  },
+  "13135550002": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183223151,
+      "response": false
+    },
+    "lastCharge": 1734179623151
+  },
+  "628813833692": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183254268,
+      "response": false
+    },
+    "lastCharge": 1734179654268
+  },
+  "6282148045794": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183283333,
+      "response": false
+    },
+    "lastCharge": 1734179683333,
+    "fswaps": {
+      "list": []
+    },
+    "name": "piaa",
+    "lastChat": 1734227866936
+  },
+  "6289519377943": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183402983,
+      "response": false
+    },
+    "lastCharge": 1734179802983,
+    "fswaps": {
+      "list": []
+    },
+    "name": "√",
+    "lastChat": 1734179841689
+  },
+  "6281217168905": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183678483,
+      "response": false
+    },
+    "lastCharge": 1734180078483,
+    "fswaps": {
+      "list": []
+    },
+    "name": "lovlypaa 𐙚",
+    "lastChat": 1734180854578
+  },
+  "6283899365590": {
+    "chat": 7,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 6,
+      "reset": 1734183706935,
+      "response": false
+    },
+    "lastCharge": 1734180106935,
+    "fswaps": {
+      "list": []
+    },
+    "name": "hiu",
+    "lastChat": 1734184399093
+  },
+  "6285759776557": {
+    "chat": 3,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 2,
+      "reset": 1734183742731,
+      "response": false
+    },
+    "lastCharge": 1734180142731,
+    "fswaps": {
+      "list": []
+    },
+    "name": "suci cute",
+    "lastChat": 1734225642476
+  },
+  "6283139975441": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183752933,
+      "response": false
+    },
+    "lastCharge": 1734180152933
+  },
+  "601161209700": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183779969,
+      "response": false
+    },
+    "lastCharge": 1734180179969,
+    "fswaps": {
+      "list": []
+    },
+    "name": "><",
+    "lastChat": 1734194221240
+  },
+  "6288975875079": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183908084,
+      "response": false
+    },
+    "lastCharge": 1734180308084,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Rehan",
+    "lastChat": 1734229366439
+  },
+  "6282239946462": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183928362,
+      "response": false
+    },
+    "lastCharge": 1734180328362,
+    "fswaps": {
+      "list": []
+    },
+    "name": "esell.",
+    "lastChat": 1734180328366
+  },
+  "6282310689668": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734183992520,
+      "response": false
+    },
+    "lastCharge": 1734180392520,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Farz XD",
+    "lastChat": 1734221021361
+  },
+  "6283821070045": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734184418036,
+      "response": false
+    },
+    "lastCharge": 1734180818036,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Satria-Man",
+    "lastChat": 1734181869059
+  },
+  "6282281816819": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734184453183,
+      "response": false
+    },
+    "lastCharge": 1734180853183,
+    "fswaps": {
+      "list": []
+    },
+    "name": "GIO😪",
+    "lastChat": 1734204731599
+  },
+  "6288242229347": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734184837182,
+      "response": false
+    },
+    "lastCharge": 1734181237182,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Raraa 💋🪽",
+    "lastChat": 1734224643850
+  },
+  "6283110090091": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734184926023,
+      "response": false
+    },
+    "lastCharge": 1734181326023,
+    "fswaps": {
+      "list": []
+    },
+    "name": "A",
+    "lastChat": 1734181642806
+  },
+  "62882000995567": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734185070993,
+      "response": false
+    },
+    "lastCharge": 1734181470993,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Lil Drick🫸🏾",
+    "lastChat": 1734183460528
+  },
+  "601169708988": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734185161200,
+      "response": false
+    },
+    "lastCharge": 1734181561200,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Nd",
+    "lastChat": 1734186550030
+  },
+  "6285732582476": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734185789223,
+      "response": false
+    },
+    "lastCharge": 1734182189223
+  },
+  "6285337346565": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734186102894,
+      "response": false
+    },
+    "lastCharge": 1734182502894,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Azka",
+    "lastChat": 1734226861069
+  },
+  "6283842598447": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734186574716,
+      "response": false
+    },
+    "lastCharge": 1734182974716,
+    "fswaps": {
+      "list": []
+    },
+    "name": "A",
+    "lastChat": 1734184405714
+  },
+  "6287768311109": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734186600586,
+      "response": false
+    },
+    "lastCharge": 1734183000586
+  },
+  "6285559030535": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734186634035,
+      "response": false
+    },
+    "lastCharge": 1734183034035,
+    "fswaps": {
+      "list": []
+    },
+    "name": "~Dree",
+    "lastChat": 1734183365377
+  },
+  "601135957629": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734186884874,
+      "response": false
+    },
+    "lastCharge": 1734183284874
+  },
+  "6283835195322": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734187168746,
+      "response": false
+    },
+    "lastCharge": 1734183568746
+  },
+  "6283829999532": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734187219710,
+      "response": false
+    },
+    "lastCharge": 1734183619710,
+    "fswaps": {
+      "list": []
+    },
+    "name": "xxxxxx",
+    "lastChat": 1734183980439
+  },
+  "6285179752916": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734187854603,
+      "response": false
+    },
+    "lastCharge": 1734184254603,
+    "fswaps": {
+      "list": []
+    },
+    "name": "sibukk",
+    "lastChat": 1734184254610
+  },
+  "6281287616770": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734188113006,
+      "response": false
+    },
+    "lastCharge": 1734184513006,
+    "fswaps": {
+      "list": []
+    },
+    "name": "sherly",
+    "lastChat": 1734184513011
+  },
+  "6288213711138": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734188153438,
+      "response": false
+    },
+    "lastCharge": 1734184553438
+  },
+  "6289509605812": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734188176456,
+      "response": false
+    },
+    "lastCharge": 1734184576456
+  },
+  "6282194426161": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734188236803,
+      "response": false
+    },
+    "lastCharge": 1734184636803,
+    "fswaps": {
+      "list": []
+    },
+    "name": "..",
+    "lastChat": 1734225613799
+  },
+  "62881026977017": {
+    "chat": 2,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734188671945,
+      "response": false
+    },
+    "lastCharge": 1734185071945,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Fahri need buyer :)",
+    "lastChat": 1734226172962
+  },
+  "6285761044057": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734188891880,
+      "response": false
+    },
+    "lastCharge": 1734185291880,
+    "fswaps": {
+      "list": []
+    },
+    "name": "𝖍𝖆𝖒𝖉𝖆𝖓",
+    "lastChat": 1734227346796
+  },
+  "6282358239294": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734188911327,
+      "response": false
+    },
+    "lastCharge": 1734185311327
+  },
+  "66637732399": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734189468107,
+      "response": false
+    },
+    "lastCharge": 1734185868107
+  },
+  "6282172560305": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734189507985,
+      "response": false
+    },
+    "lastCharge": 1734185907985,
+    "fswaps": {
+      "list": []
+    },
+    "name": "๋𐙚  chichi",
+    "lastChat": 1734186177064
+  },
+  "6287711031296": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734189527195,
+      "response": false
+    },
+    "lastCharge": 1734185927195,
+    "fswaps": {
+      "list": []
+    },
+    "name": ".",
+    "lastChat": 1734233908018
+  },
+  "6281949593332": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734189746093,
+      "response": false
+    },
+    "lastCharge": 1734186146093
+  },
+  "6285890629755": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734189760334,
+      "response": false
+    },
+    "lastCharge": 1734186160334,
+    "fswaps": {
+      "list": []
+    },
+    "name": "ririi 𐙚",
+    "lastChat": 1734186354569
+  },
+  "6285728142891": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734189824739,
+      "response": false
+    },
+    "lastCharge": 1734186224739,
+    "fswaps": {
+      "list": []
+    },
+    "name": "saa",
+    "lastChat": 1734186601694
+  },
+  "6283122154916": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734189888863,
+      "response": false
+    },
+    "lastCharge": 1734186288863,
+    "fswaps": {
+      "list": []
+    },
+    "name": "愚蠢的",
+    "lastChat": 1734190540224
+  },
+  "6283105578758": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734189905566,
+      "response": false
+    },
+    "lastCharge": 1734186305566,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Mamaa Raffa😇",
+    "lastChat": 1734186308208
+  },
+  "6281345541897": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734189973294,
+      "response": false
+    },
+    "lastCharge": 1734186373294,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Nazril",
+    "lastChat": 1734186757468
+  },
+  "6281283734289": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734190159309,
+      "response": false
+    },
+    "lastCharge": 1734186559309,
+    "fswaps": {
+      "list": []
+    },
+    "name": "eeerrikssaan",
+    "lastChat": 1734196523043
+  },
+  "6285166590025": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734190208444,
+      "response": false
+    },
+    "lastCharge": 1734186608444,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Sifa",
+    "lastChat": 1734187043537
+  },
+  "628818194509": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734190256580,
+      "response": false
+    },
+    "lastCharge": 1734186656580,
+    "fswaps": {
+      "list": []
+    },
+    "name": "(-_-) MIKEQY TOP KING👑",
+    "lastChat": 1734230442425
+  },
+  "6285603682815": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734190343224,
+      "response": false
+    },
+    "lastCharge": 1734186743224,
+    "fswaps": {
+      "list": []
+    },
+    "name": "nisya",
+    "lastChat": 1734198637143
+  },
+  "6285934452361": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734190476084,
+      "response": false
+    },
+    "lastCharge": 1734186876084
+  },
+  "6285867833358": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734190513941,
+      "response": false
+    },
+    "lastCharge": 1734186913941,
+    "fswaps": {
+      "list": []
+    },
+    "name": "momnst?",
+    "lastChat": 1734226003248
+  },
+  "60178634887": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734190569542,
+      "response": false
+    },
+    "lastCharge": 1734186969542,
+    "fswaps": {
+      "list": []
+    },
+    "name": "na",
+    "lastChat": 1734197009772
+  },
+  "62882017815687": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734190657547,
+      "response": false
+    },
+    "lastCharge": 1734187057547,
+    "fswaps": {
+      "list": []
+    },
+    "name": "viona",
+    "lastChat": 1734187173945
+  },
+  "60146816174": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734191126925,
+      "response": false
+    },
+    "lastCharge": 1734187526925
+  },
+  "6282352420657": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734191285259,
+      "response": false
+    },
+    "lastCharge": 1734187685259,
+    "fswaps": {
+      "list": []
+    },
+    "name": "tizy",
+    "lastChat": 1734222365945
+  },
+  "6281292915150": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734191319200,
+      "response": false
+    },
+    "lastCharge": 1734187719200,
+    "fswaps": {
+      "list": []
+    },
+    "name": "~ azaleaaa",
+    "lastChat": 1734188429985
+  },
+  "628994092816": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734191803789,
+      "response": false
+    },
+    "lastCharge": 1734188203789,
+    "fswaps": {
+      "list": []
+    },
+    "name": "istrinya jaehyun 🫂",
+    "lastChat": 1734195039943
+  },
+  "6282396426118": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734192095328,
+      "response": false
+    },
+    "lastCharge": 1734188495328,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Rifai",
+    "lastChat": 1734226584618
+  },
+  "6283147600145": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734192377653,
+      "response": false
+    },
+    "lastCharge": 1734188777653,
+    "fswaps": {
+      "list": []
+    },
+    "name": "~₹",
+    "lastChat": 1734189779743
+  },
+  "6281774811636": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734192779078,
+      "response": false
+    },
+    "lastCharge": 1734189179078,
+    "fswaps": {
+      "list": []
+    },
+    "name": "rezaa",
+    "lastChat": 1734191254369
+  },
+  "6289521162119": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734192864202,
+      "response": false
+    },
+    "lastCharge": 1734189264202,
+    "fswaps": {
+      "list": []
+    },
+    "name": "mia",
+    "lastChat": 1734191690690
+  },
+  "6282291462308": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734192921784,
+      "response": false
+    },
+    "lastCharge": 1734189321784,
+    "fswaps": {
+      "list": []
+    },
+    "name": "~",
+    "lastChat": 1734189370119
+  },
+  "6285142808930": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734192939813,
+      "response": false
+    },
+    "lastCharge": 1734189339813,
+    "fswaps": {
+      "list": []
+    },
+    "name": "𐙚",
+    "lastChat": 1734189581872
+  },
+  "6282393731649": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734193178897,
+      "response": false
+    },
+    "lastCharge": 1734189578897
+  },
+  "62895321272179": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734193307220,
+      "response": false
+    },
+    "lastCharge": 1734189707220,
+    "fswaps": {
+      "list": []
+    },
+    "name": "All’",
+    "lastChat": 1734189823736
+  },
+  "6288293005130": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734193337954,
+      "response": false
+    },
+    "lastCharge": 1734189737954,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Akmal",
+    "lastChat": 1734189791606
+  },
+  "62895399193500": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734193619915,
+      "response": false
+    },
+    "lastCharge": 1734190019915,
+    "fswaps": {
+      "list": []
+    },
+    "name": "~e.anstasya~",
+    "lastChat": 1734190026978
+  },
+  "6281546956148": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734193640973,
+      "response": false
+    },
+    "lastCharge": 1734190040973
+  },
+  "6287783908384": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734194578208,
+      "response": false
+    },
+    "lastCharge": 1734190978208,
+    "fswaps": {
+      "list": []
+    },
+    "name": "mrc",
+    "lastChat": 1734195458253
+  },
+  "6281348170614": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734195217260,
+      "response": false
+    },
+    "lastCharge": 1734191617260
+  },
+  "628983646503": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734195302177,
+      "response": false
+    },
+    "lastCharge": 1734191702177,
+    "fswaps": {
+      "list": []
+    },
+    "name": "r",
+    "lastChat": 1734194245695
+  },
+  "6283183526324": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734195333451,
+      "response": false
+    },
+    "lastCharge": 1734191733451,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Milani",
+    "lastChat": 1734225241120
+  },
+  "628895829133": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734195375064,
+      "response": false
+    },
+    "lastCharge": 1734191775065,
+    "fswaps": {
+      "list": []
+    },
+    "name": "ev",
+    "lastChat": 1734195434086
+  },
+  "6283120981030": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734196271494,
+      "response": false
+    },
+    "lastCharge": 1734192671494,
+    "fswaps": {
+      "list": []
+    },
+    "name": "kentut batu",
+    "lastChat": 1734195860620
+  },
+  "628817839515": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734196488998,
+      "response": false
+    },
+    "lastCharge": 1734192888998,
+    "fswaps": {
+      "list": []
+    },
+    "name": "al debarant",
+    "lastChat": 1734227992337
+  },
+  "62882003087546": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734196590244,
+      "response": false
+    },
+    "lastCharge": 1734192990244,
+    "fswaps": {
+      "list": []
+    },
+    "name": "-Katz's",
+    "lastChat": 1734195362353
+  },
+  "6285655723292": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734196698197,
+      "response": false
+    },
+    "lastCharge": 1734193098197,
+    "fswaps": {
+      "list": []
+    },
+    "name": "dani lanang.",
+    "lastChat": 1734193187173
+  },
+  "6282196880017": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734196819123,
+      "response": false
+    },
+    "lastCharge": 1734193219123,
+    "name": "🌟",
+    "lastChat": 1734193222211
+  },
+  "6281927975247": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734196875219,
+      "response": false
+    },
+    "lastCharge": 1734193275219
+  },
+  "6281445814342": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734197409363,
+      "response": false
+    },
+    "lastCharge": 1734193809363,
+    "fswaps": {
+      "list": []
+    },
+    "name": "diss",
+    "lastChat": 1734193879449
+  },
+  "6283827866425": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734197792146,
+      "response": false
+    },
+    "lastCharge": 1734194192146,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Tzyy",
+    "lastChat": 1734211789778
+  },
+  "6289505137709": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734198231092,
+      "response": false
+    },
+    "lastCharge": 1734194631092,
+    "fswaps": {
+      "list": []
+    },
+    "name": "ciyiila",
+    "lastChat": 1734197532335
+  },
+  "6285771470212": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734198999398,
+      "response": false
+    },
+    "lastCharge": 1734195399398,
+    "fswaps": {
+      "list": []
+    },
+    "name": "i",
+    "lastChat": 1734195533982
+  },
+  "6285167272861": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734199092240,
+      "response": false
+    },
+    "lastCharge": 1734195492240,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Ghina🚀🚀",
+    "lastChat": 1734195492496
+  },
+  "6285710438273": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734199592684,
+      "response": false
+    },
+    "lastCharge": 1734195992684
+  },
+  "6281271103306": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734199904868,
+      "response": false
+    },
+    "lastCharge": 1734196304868,
+    "fswaps": {
+      "list": []
+    },
+    "name": "kyo",
+    "lastChat": 1734198101651
+  },
+  "6289501944224": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734200362743,
+      "response": false
+    },
+    "lastCharge": 1734196762743,
+    "fswaps": {
+      "list": []
+    },
+    "name": "adlann waras",
+    "lastChat": 1734200013396
+  },
+  "62882007919022": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734200636914,
+      "response": false
+    },
+    "lastCharge": 1734197036914,
+    "fswaps": {
+      "list": []
+    },
+    "name": "THYO 💞",
+    "lastChat": 1734198655116
+  },
+  "6285783924613": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734201060580,
+      "response": false
+    },
+    "lastCharge": 1734197460580,
+    "fswaps": {
+      "list": []
+    },
+    "name": "~Nisah",
+    "lastChat": 1734197941769
+  },
+  "6281918188483": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734201118283,
+      "response": false
+    },
+    "lastCharge": 1734197518283,
+    "fswaps": {
+      "list": []
+    },
+    "name": "K A Y Y",
+    "lastChat": 1734198206051
+  },
+  "6283891295264": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734202203345,
+      "response": false
+    },
+    "lastCharge": 1734198603345,
+    "fswaps": {
+      "list": []
+    },
+    "name": "slviw",
+    "lastChat": 1734226134479
+  },
+  "6283166671045": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734202657814,
+      "response": false
+    },
+    "lastCharge": 1734199057814,
+    "fswaps": {
+      "list": []
+    },
+    "name": "who!!ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ",
+    "lastChat": 1734199590151
+  },
+  "6285831428934": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734202963482,
+      "response": false
+    },
+    "lastCharge": 1734199363482,
+    "fswaps": {
+      "list": []
+    },
+    "name": ".",
+    "lastChat": 1734199363482
+  },
+  "6287881232232": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734203250070,
+      "response": false
+    },
+    "lastCharge": 1734199650070,
+    "fswaps": {
+      "list": []
+    },
+    "name": "chell☆",
+    "lastChat": 1734199996772
+  },
+  "6283195426147": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734203582269,
+      "response": false
+    },
+    "lastCharge": 1734199982269,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Vinz",
+    "lastChat": 1734200896789
+  },
+  "6289530482463": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734204625520,
+      "response": false
+    },
+    "lastCharge": 1734201025520
+  },
+  "6285340262969": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734206530999,
+      "response": false
+    },
+    "lastCharge": 1734202930999,
+    "fswaps": {
+      "list": []
+    },
+    "name": ".",
+    "lastChat": 1734203119977
+  },
+  "6285771756455": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 343,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734208636172,
+      "response": false
+    },
+    "lastCharge": 1734205036172,
+    "fswaps": {
+      "list": []
+    },
+    "name": ".",
+    "lastChat": 1734224294152
+  },
+  "6281232704776": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734210006984,
+      "response": false
+    },
+    "lastCharge": 1734206406984
+  },
+  "6285783093655": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734212446725,
+      "response": false
+    },
+    "lastCharge": 1734208846725,
+    "fswaps": {
+      "list": []
+    },
+    "name": "🦖",
+    "lastChat": 1734210279018
+  },
+  "6287742977575": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734213399192,
+      "response": false
+    },
+    "lastCharge": 1734209799192,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Awa",
+    "lastChat": 1734212872725
+  },
+  "6281230375010": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734214824894,
+      "response": false
+    },
+    "lastCharge": 1734211224894,
+    "fswaps": {
+      "list": []
+    },
+    "name": "d",
+    "lastChat": 1734211225166
+  },
+  "6281528425457": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734215878905,
+      "response": false
+    },
+    "lastCharge": 1734212278905,
+    "fswaps": {
+      "list": []
+    },
+    "name": "gusa cht kl g pnting!",
+    "lastChat": 1734212279160
+  },
+  "6285966362723": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734218172532,
+      "response": false
+    },
+    "lastCharge": 1734214572532,
+    "fswaps": {
+      "list": []
+    },
+    "name": ".",
+    "lastChat": 1734214601990
+  },
+  "6285796698554": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734218428842,
+      "response": false
+    },
+    "lastCharge": 1734214828842,
+    "fswaps": {
+      "list": []
+    },
+    "name": "je-in.",
+    "lastChat": 1734214829127
+  },
+  "6283836018461": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734218428842,
+      "response": false
+    },
+    "lastCharge": 1734214828842,
+    "fswaps": {
+      "list": []
+    },
+    "name": "sv amell⚡",
+    "lastChat": 1734215244409
+  },
+  "6285967184268": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734218814594,
+      "response": false
+    },
+    "lastCharge": 1734215214594,
+    "fswaps": {
+      "list": []
+    },
+    "name": "tukang gas",
+    "lastChat": 1734215214880
+  },
+  "628164596466": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734219434847,
+      "response": false
+    },
+    "lastCharge": 1734215834847,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Aldia",
+    "lastChat": 1734215835136
+  },
+  "6281249877925": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734219503630,
+      "response": false
+    },
+    "lastCharge": 1734215903630,
+    "fswaps": {
+      "list": []
+    },
+    "name": "tri273328",
+    "lastChat": 1734223452214
+  },
+  "6287840016123": {
+    "chat": 5,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1734223480295,
+      "response": false
+    },
+    "lastCharge": 1734216272371,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Putri Melinda Sari",
+    "lastChat": 1734229339956
+  },
+  "6282318087011": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734219917394,
+      "response": false
+    },
+    "lastCharge": 1734216317394,
+    "fswaps": {
+      "list": []
+    },
+    "name": "idk",
+    "lastChat": 1734216317681
+  },
+  "60195103095": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734220307943,
+      "response": false
+    },
+    "lastCharge": 1734216707943,
+    "fswaps": {
+      "list": []
+    },
+    "name": "No",
+    "lastChat": 1734225141234
+  },
+  "6285730335575": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734220410223,
+      "response": false
+    },
+    "lastCharge": 1734216810223
+  },
+  "6282320259306": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734220494138,
+      "response": false
+    },
+    "lastCharge": 1734216894138,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Pitrianaxian",
+    "lastChat": 1734218393952
+  },
+  "6282236140446": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734220614778,
+      "response": false
+    },
+    "lastCharge": 1734217014778
+  },
+  "6282196574614": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734221018265,
+      "response": false
+    },
+    "lastCharge": 1734217418265
+  },
+  "6285363607463": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734221116332,
+      "response": false
+    },
+    "lastCharge": 1734217516332,
+    "fswaps": {
+      "list": []
+    },
+    "name": "~𝗚𝗾𝗲𝗮𝗹",
+    "lastChat": 1734232446559
+  },
+  "62882006138646": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734221277287,
+      "response": false
+    },
+    "lastCharge": 1734217677287
+  },
+  "6282399588446": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734221472931,
+      "response": false
+    },
+    "lastCharge": 1734217872931,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Fajar Bnt",
+    "lastChat": 1734225781773
+  },
+  "6289510768846": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734221600710,
+      "response": false
+    },
+    "lastCharge": 1734218000710,
+    "fswaps": {
+      "list": []
+    },
+    "name": "nayy",
+    "lastChat": 1734224183613
+  },
+  "62895343049357": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734221612360,
+      "response": false
+    },
+    "lastCharge": 1734218012360,
+    "fswaps": {
+      "list": []
+    },
+    "name": "v",
+    "lastChat": 1734218814289
+  },
+  "6283867674176": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734221888498,
+      "response": false
+    },
+    "lastCharge": 1734218288498,
+    "fswaps": {
+      "list": []
+    },
+    "name": "ليانا 🕊",
+    "lastChat": 1734218288498
+  },
+  "6281374122580": {
+    "chat": 2,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1734222010013,
+      "response": false
+    },
+    "lastCharge": 1734218410013,
+    "fswaps": {
+      "list": []
+    },
+    "name": "𝒍𝒆𝒏𝒂𝒕𝒉𝒆𝒂",
+    "lastChat": 1734220149543
+  },
+  "6283137523337": {
+    "chat": 44,
+    "role": "Temen biasa",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 43,
+      "reset": 1734222485343,
+      "response": false
+    },
+    "lastCharge": 1734218885343,
+    "fswaps": {
+      "list": []
+    },
+    "name": "~liaa",
+    "lastChat": 1734220777627
+  },
+  "6289676287213": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734222777332,
+      "response": false
+    },
+    "lastCharge": 1734219177332,
+    "fswaps": {
+      "list": []
+    },
+    "name": "nayyy",
+    "lastChat": 1734229451968
+  },
+  "628815072905": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734222849397,
+      "response": false
+    },
+    "lastCharge": 1734219249397
+  },
+  "6282180182113": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734222896626,
+      "response": false
+    },
+    "lastCharge": 1734219296626,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Om Agus",
+    "lastChat": 1734219336200
+  },
+  "628568788976": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734223646348,
+      "response": false
+    },
+    "lastCharge": 1734220046348,
+    "fswaps": {
+      "list": []
+    },
+    "name": "السلام عليكم",
+    "lastChat": 1734221101791
+  },
+  "6285692571164": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734224653472,
+      "response": false
+    },
+    "lastCharge": 1734221053472,
+    "fswaps": {
+      "list": []
+    },
+    "name": "diyan",
+    "lastChat": 1734221250255
+  },
+  "6288269852425": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734224762112,
+      "response": false
+    },
+    "lastCharge": 1734221162112,
+    "fswaps": {
+      "list": []
+    },
+    "name": ".",
+    "lastChat": 1734226165481
+  },
+  "6285652030396": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734224985261,
+      "response": false
+    },
+    "lastCharge": 1734221385261,
+    "fswaps": {
+      "list": []
+    },
+    "name": "~ r",
+    "lastChat": 1734221391664
+  },
+  "6281249916364": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734225813217,
+      "response": false
+    },
+    "lastCharge": 1734222213217,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Mr. Craw_vair!!",
+    "lastChat": 1734227399276
+  },
+  "6285246345848": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734226107972,
+      "response": false
+    },
+    "lastCharge": 1734222507972,
+    "fswaps": {
+      "list": []
+    },
+    "name": "cima syng tunner :c",
+    "lastChat": 1734222543907
+  },
+  "6282226674613": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734226916179,
+      "response": false
+    },
+    "lastCharge": 1734223316179,
+    "fswaps": {
+      "list": []
+    },
+    "name": "adiba ji",
+    "lastChat": 1734232857141
+  },
+  "6281568429273": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734227479249,
+      "response": false
+    },
+    "lastCharge": 1734223879249,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Faaaaaaaaaarrrriiiii",
+    "lastChat": 1734231243710
+  },
+  "6287861928149": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734227813333,
+      "response": false
+    },
+    "lastCharge": 1734224213333,
+    "fswaps": {
+      "list": []
+    },
+    "name": "E",
+    "lastChat": 1734224213336
+  },
+  "628814095700": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734227936944,
+      "response": false
+    },
+    "lastCharge": 1734224336944,
+    "fswaps": {
+      "list": []
+    },
+    "name": "halovvvv",
+    "lastChat": 1734234420268
+  },
+  "6281282691572": {
+    "chat": 2,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734237824936,
+      "response": false
+    },
+    "lastCharge": 1734224349055,
+    "fswaps": {
+      "list": []
+    },
+    "name": "d",
+    "lastChat": 1734234644865
+  },
+  "6285191485321": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734228153909,
+      "response": false
+    },
+    "lastCharge": 1734224553909,
+    "fswaps": {
+      "list": []
+    },
+    "name": "nanaaà sigmaa gyat🧏🏻‍♀️😈—",
+    "lastChat": 1734224554162
+  },
+  "6285962795404": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734228208449,
+      "response": false
+    },
+    "lastCharge": 1734224608449,
+    "name": "sall",
+    "lastChat": 1734224608450
+  },
+  "628381070745": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734229911619,
+      "response": false
+    },
+    "lastCharge": 1734226311619,
+    "fswaps": {
+      "list": []
+    },
+    "name": "MEMEK",
+    "lastChat": 1734226624123
+  },
+  "6283829259076": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734230002749,
+      "response": false
+    },
+    "lastCharge": 1734226402749
+  },
+  "6281242087734": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734230128361,
+      "response": false
+    },
+    "lastCharge": 1734226528361,
+    "fswaps": {
+      "list": []
+    },
+    "name": "naomii><",
+    "lastChat": 1734226530848
+  },
+  "6282358983975": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734230313287,
+      "response": false
+    },
+    "lastCharge": 1734226713287,
+    "fswaps": {
+      "list": []
+    },
+    "name": "ssaa~~~",
+    "lastChat": 1734227190702
+  },
+  "6281378564422": {
+    "chat": 3,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1734234620275,
+      "response": false
+    },
+    "lastCharge": 1734227208759,
+    "fswaps": {
+      "list": []
+    },
+    "name": "nadhirahsaafia48",
+    "lastChat": 1734231034713
+  },
+  "6282245635634": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734230997844,
+      "response": false
+    },
+    "lastCharge": 1734227397844,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Diniiii",
+    "lastChat": 1734231491249
+  },
+  "6285780351787": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734231688977,
+      "response": false
+    },
+    "lastCharge": 1734228088977,
+    "fswaps": {
+      "list": []
+    },
+    "name": "nava",
+    "lastChat": 1734228091855
+  },
+  "6283898518569": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734231810963,
+      "response": false
+    },
+    "lastCharge": 1734228210963,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Dvvnaa🙂‍↔🙂‍↕",
+    "lastChat": 1734230582894
+  },
+  "6283844478847": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734232731875,
+      "response": false
+    },
+    "lastCharge": 1734229131875,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Njmaa🐼",
+    "lastChat": 1734229131876
+  },
+  "62895320865404": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734233878250,
+      "response": false
+    },
+    "lastCharge": 1734230278250
+  },
+  "6285876603405": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734234382540,
+      "response": false
+    },
+    "lastCharge": 1734230782540,
+    "fswaps": {
+      "list": []
+    },
+    "name": "sial ip",
+    "lastChat": 1734230782540
+  },
+  "6288286202278": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734234541824,
+      "response": false
+    },
+    "lastCharge": 1734230941824
+  },
+  "6285702161696": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734234975970,
+      "response": false
+    },
+    "lastCharge": 1734231375970
+  },
+  "6285780129805": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734235084807,
+      "response": false
+    },
+    "lastCharge": 1734231484807,
+    "fswaps": {
+      "list": []
+    },
+    "name": "บายู",
+    "lastChat": 1734231556515
+  },
+  "6281779185624": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734235729780,
+      "response": false
+    },
+    "lastCharge": 1734232129780
+  },
+  "6285213980582": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734235773179,
+      "response": false
+    },
+    "lastCharge": 1734232173179,
+    "fswaps": {
+      "list": []
+    },
+    "name": "⊙⁠👄⊙",
+    "lastChat": 1734232221828
+  },
+  "6282219358795": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734235786258,
+      "response": false
+    },
+    "lastCharge": 1734232186258
+  },
+  "628989277198": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734235795174,
+      "response": false
+    },
+    "lastCharge": 1734232195174
+  },
+  "6285608500132": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734236130056,
+      "response": false
+    },
+    "lastCharge": 1734232530056
+  },
+  "6289699692921": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734236596471,
+      "response": false
+    },
+    "lastCharge": 1734232996471,
+    "fswaps": {
+      "list": []
+    },
+    "name": "noel",
+    "lastChat": 1734233911888
+  },
+  "6287763706784": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734237159515,
+      "response": false
+    },
+    "lastCharge": 1734233559515
+  },
+  "6285879557640": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734237168395,
+      "response": false
+    },
+    "lastCharge": 1734233568395
+  },
+  "62895639434928": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734237193214,
+      "response": false
+    },
+    "lastCharge": 1734233593214,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Heaven",
+    "lastChat": 1734233593214
+  },
+  "6283830012819": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 350,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1734237881877,
+      "response": false
+    },
+    "lastCharge": 1734234281877,
+    "fswaps": {
+      "list": []
+    },
+    "name": "𝖒𝖎𝖔𝖓𝖊'★",
+    "lastChat": 1734234281878
+  }
+}

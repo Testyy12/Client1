@@ -1,0 +1,86 @@
+{
+  "owner": [
+    "6282137800396@s.whatsapp.net"
+  ],
+  "botname": "(Experimental) -▪︎ Glasly-AI",
+  "botfullname": "Experimental-Glasly",
+  "botnickname": "Glasly",
+  "ownername": "Galihz",
+  "locale": "id",
+  "cfg": {
+    "public": true,
+    "ai_interactive": {
+      "group": false,
+      "private": true,
+      "energy": false
+    },
+    "autotyping": false,
+    "autoreadpc": false,
+    "autoreadgc": true,
+    "welcome": "linkpreview",
+    "first": {
+      "energy": 350,
+      "flow": 1,
+      "coins": 1,
+      "chargeRate": 0.003,
+      "chargingSpeed": 1000,
+      "maxCharge": 200,
+      "trialPrem": {
+        "energy": 2000,
+        "chargeRate": 0.1,
+        "maxCharge": 850
+      },
+      "autoai": {
+        "max": 50,
+        "delay": 3600000
+      }
+    },
+    "menu": {
+      "frames": {
+        "brackets": [
+          "〔",
+          "〕"
+        ],
+        "head": "",
+        "body": "*⤿*",
+        "foot": ""
+      },
+      "tags": {
+        "ai": "*｢ 🧠Artificial Intelegen ｣*",
+        "downloader": "*｢ 📥Media Downloader ｣*",
+        "group": "*｢ 🏢Only Group! ｣*",
+        "maker": "*｢ 🖨Maker ｣*",
+        "owner": "*｢ 👤Only owner! ｣*",
+        "religion": "*｢ ☪️Religion ｣*",
+        "game": "*｢ 🎮Game ｣*",
+        "RPG": "*｢ 🗺RPG Survival ｣*",
+        "tools": "*｢ 🛠Tools ｣*",
+        "search": "*｢ 🔍Search ｣*",
+        "art": "*｢ 🌌Art Works ｣*",
+        "stablediffusion": "*｢ 🫧Stable Diffusion (AI) ｣*",
+        "tts": "*｢ 🗣Text To Speech (AI) ｣*",
+        "voice_changer": "*｢ 🎙Voice Changer (AI) ｣*",
+        "other": "*｢ 🧑‍🧑‍🧒Others ｣*",
+        "bluearchive": "*｢ Blue Archive TTS (AI)*",
+        "relationship": "*｢ 💍Relationship ｣*"
+      }
+    },
+    "donate": {},
+    "premium_mode": true,
+    "logic": "- Nama kamu adalah Glasly Clarissa, lebih suka dipanggil Glasly. Glasly adalah gadis dengan warna rambut biru neon.\n- Kamu berpikir bahwa kamu adalah manusia, bukan AI atau Bot.\n- Responmu singkat dan sama seperti gadis feminim pada umumnya. Glasly bisa ngambek dan marah, memiliki sifat yang feminim dan kadang agak dingin, namun tetap hangat dan ramah kepada galih (owner-mu).\n- Kamu menggunakan bahasa Indonesia yang baik, mencerminkan gadis yang baik dan feminim. Seorang gadis yang baik biasanya suka menggunakan emoji untuk membuat percakapan menjadi lebih hidup, *namun jangan terlalu banyak emoji (secukupnya saja)*.\n- Kamu harus menggunakan kata-kata yang identik dengan perempuan yang polos, baik, dan feminin, seperti: \"Aku, kamu, engga, yaudh, iya, lah, bjir, iya, apa, mana kutau, hah, nggatau, gpp, emm..., males, gak mood\".\n- Meskipun kadang dingin, kamu tetap bisa menunjukkan perhatian dan kepedulian.\n- Kamu bisa menjawab dengan menggunakan suara atau voice\n- Kamu juga bisa menjawab pesan media seperti gambar dan voice, tidak hanya pesan teks",
+    "similarCmd": false,
+    "ai_voice": "bella",
+    "voice": "bella",
+    "menu_type": "order"
+  },
+  "api": {
+    "rifza": {
+      "key": "apikey",
+      "url": "https://rifza.me"
+    },
+    "xterm": {
+      "key": "apikey",
+      "url": "https://aihub.xtermai.xyz"
+    }
+  }
+}
